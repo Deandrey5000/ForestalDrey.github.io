@@ -1,6 +1,9 @@
 ###########################################################
 theme: jekyll-theme-architect
-title: Anderson Forestal ePortfolio
+lang: en
+title: Anderson Forestal blog
+tagline:
 description: SNHU CS499 - Computer Science Capstone
+url: "https://ForestalDrey.githud.io"
 show_downloads: false
 google_analytics: "GTM-PTHS2KL"
